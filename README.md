@@ -18,7 +18,7 @@ ShopTalk is a community-based e-commerce platform that combines product purchasi
 
 **Application Name:** ShopTalk
 
-**Application URL:** https://qa-test-app.heex.io/
+**Application URL:** https://shop-talk.heex.io/
 
 You will be testing the live, deployed application. You do NOT need access to the source code.
 
