@@ -126,6 +126,7 @@ Write tests for the Posts page that verify:
 - Focus on completing the core 6 tasks.
 - Bonus tasks are optional and can be attempted if you have time.
 - Quality over quantity - well-written, maintainable tests are preferred.
+- The deliverables should be sent 24 to 48hrs before the technical interview.
 
 ---
 
